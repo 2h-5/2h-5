@@ -2,7 +2,9 @@
 
 <h6 align="center">Thus, let me introduce myself a little bit for you...</h6>
 
-## About Me 👨‍💼
+[//]: # (© 🆉. Sūn 2026 All rights reserved)
+
+## About Me 👨‍💼 
 
 - 🎓 I am currently a university student in Canada.
 - 📝 I am currently learning project management & innovation.
@@ -11,13 +13,15 @@
 
 ## My Education 📚
 
+[//]: # (© Z. Sun 2026 All rights reserved)
+
 ### Western University (London, ON)
 
 **Bachelor of Engineering Science, Software Engineering** (2022 — 2027)
 > ##### **Selected Coursework**: Cloud Computing, Database Management, Human-Computer Interaction, Software Testing & Maintenance, Web Technologies.
 
 **Certificate of Engineering Leadership and Innovation** (2026 — 2027)
-> ##### **Selected Coursework**: Innovation Design, Planning & Project Management, Strategic Innovation.
+> ##### **Selected Coursework**: Innovation Design, Planning & Project Management, Strategic Commercialization.
 
 ## Skilled Areas ✨
 
@@ -27,6 +31,8 @@
 - 🎛 **Visual/Audio Software**: Audacity, Audition, Photoshop, Lightroom, Premiere Pro.
 - 🔉 **Spoken Languages**: English, Standard Chinese (Mandarin, Luoyang Dialect).
 
+[//]: # (© github.com/2h-5)
+
 ## My Projects 💼
 
 > #### All my written projects are accessible below: 
@@ -34,6 +40,8 @@
 <div align="center">
 
 <a href="https://github.com/2h-5?tab=repositories"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+[//]: # (© 🆉. Sūn 2026 All rights reserved)
 
 </div>
 
@@ -46,6 +54,8 @@
 ## Let's Connect 🤝
 
 > #### Again, I am welcome to build social networking to grow as a software developer:
+
+[//]: # (© 2h-5 2026 All rights reserved)
 
 <div align="center">
 
@@ -60,4 +70,6 @@
 
 Credit: [Z. Sun](https://github.com/2h-5) 
 
-Last Updated on: 2026-09-08
+Last Updated on: 2026-09-11
+
+[//]: # (© 🆉. Sūn 2026 All rights reserved)
