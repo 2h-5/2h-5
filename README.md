@@ -7,7 +7,7 @@
 ## About Me 👨‍💼 
 
 - 🎓 I am currently a university student in Canada.
-- 📝 I am currently learning project management & innovation.
+- 📑 I am currently learning project management & innovation.
 - 💻 I am skilled and interested in UI/UX design & mobile/web development.
 - 🛠 I am welcome to build social networking & support large projects to grow as a developer.
 
@@ -18,18 +18,20 @@
 ### Western University (London, ON)
 
 **Bachelor of Engineering Science, Software Engineering** (2022 — 2027)
-> ##### **Selected Coursework**: Cloud Computing, Database Management, Human-Computer Interaction, Software Testing & Maintenance, Web Technologies.
+> ##### **Related Coursework**: Cloud Computing, Database Management, Human-Computer Interaction, Software Testing & Maintenance, Web Technologies.
 
 **Certificate of Engineering Leadership and Innovation** (2026 — 2027)
-> ##### **Selected Coursework**: Innovation Design, Planning & Project Management, Strategic Commercialization.
+> ##### **Related Coursework**: Innovation Design, Planning & Project Management, Strategic Commercialization.
 
 ## Skilled Areas ✨
 
-- 👨‍💻 **Programming Languages**: Assembly, C++, C#, HTML, Java, JavaScript, Python, SQL, Swift, TypeScript.
+- 👨‍💻 **Programming Languages**: Assembly, C++, C#, Java, JavaScript, MATLAB, PHP, Python, SQL, Swift, TypeScript.
 - 🗂 **Planning & Management Tools**: Confluence, Jira, MS Office, MS Project, MS Teams, MS Visio.
-- ☁ **Cloud Computing Tools**: AWS, Docker, GCP, Git, Kubernetes, NGINX, Postman, Vercel.
+- ☁ **Cloud Computing Tools**: AWS, Azure, Docker, GCP, Git, Kubernetes, NGINX, Postman, Vercel.
 - 🎛 **Visual/Audio Software**: Audacity, Audition, Photoshop, Lightroom, Premiere Pro.
-- 🔉 **Spoken Languages**: English, Standard Chinese (Mandarin, Luoyang Dialect).
+- 🗃 **Database Management Tools**: Apache DB, MySQL, MongoDB, PostgreSQL.
+- 📝 **Markup Languages**: HTML, LaTeX, Markdown, Typst, XML.
+- 🔉 **Spoken Languages**: English, Mandarin.
 
 [//]: # (© github.com/2h-5)
 
