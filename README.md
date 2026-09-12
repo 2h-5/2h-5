@@ -7,7 +7,7 @@
 ## About Me 👨‍💼 
 
 - 🎓 I am currently a university student in Canada.
-- 📑 I am currently learning project management & innovation.
+- 📑 I am currently studying project management & innovation.
 - 💻 I am skilled and interested in UI/UX design & mobile/web development.
 - 🛠 I am welcome to build social networking & support large projects to grow as a developer.
 
@@ -18,15 +18,15 @@
 ### Western University (London, ON)
 
 **Bachelor of Engineering Science, Software Engineering** (2022 — 2027)
-> ##### **Related Coursework**: Cloud Computing, Database Management, Human-Computer Interaction, Software Testing & Maintenance, Web Technologies.
+> ##### **Related Coursework**: Cloud Computing, Computer Graphics, Database Systems, Human-Computer Interaction, Scalable Distributed Systems, Software Testing & Maintenance, Web Technologies.
 
 **Certificate of Engineering Leadership and Innovation** (2026 — 2027)
 > ##### **Related Coursework**: Innovation Design, Planning & Project Management, Strategic Commercialization.
 
 ## Skilled Areas ✨
 
-- 👨‍💻 **Programming Languages**: Assembly, C++, C#, Java, JavaScript, MATLAB, PHP, Python, SQL, Swift, TypeScript.
-- 🗂 **Planning & Management Tools**: Confluence, Jira, MS Office, MS Project, MS Teams, MS Visio.
+- 👨‍💻 **Programming Languages**: Assembly, C, C++, C#, Java, JavaScript, MATLAB, PHP, Python, SQL, Swift, TypeScript.
+- 🗂 **Planning & Management Tools**: Confluence, Jira, MagicDraw, MS Office, MS Project, MS Teams, MS Visio.
 - ☁ **Cloud Computing Tools**: AWS, Azure, Docker, GCP, Git, Kubernetes, NGINX, Postman, Vercel.
 - 🎛 **Visual/Audio Software**: Audacity, Audition, Photoshop, Lightroom, Premiere Pro.
 - 🗃 **Database Management Tools**: Apache DB, MySQL, MongoDB, PostgreSQL.
@@ -72,6 +72,6 @@
 
 Credit: [Z. Sun](https://github.com/2h-5) 
 
-Last Updated on: 2026-09-11
+Last Updated on: 2026-09-12
 
 [//]: # (© 🆉. Sūn 2026 All rights reserved)
