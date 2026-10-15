@@ -25,7 +25,7 @@
 - 👨‍💻 **Programming Languages**: Assembly, C, C++, C#, Java, JavaScript, MATLAB, PHP, Python, SQL, Swift, TypeScript
 - 🌐 **Full Stack Development Tools**: .NET, Angular, Express.js, FastAPI, Node.js, React, Spring, Svelte, Vite, Vue.js
 - 🗂 **Planning & Management Tools**: Confluence, Jira, MagicDraw, MS Office, MS Project, MS Teams, MS Visio
-- ☁ **Cloud Computing Tools**: AWS, Azure, Docker, GCP, Git, Kubernetes, NGINX, Postman, Vercel
+- ☁ **Cloud Computing Tools**: AWS, Azure, Docker, Google Cloud, Git, Kubernetes, NGINX, Postman, Vercel
 - 🎛 **Visual/Audio Software**: Audacity, Audition, Photoshop, Lightroom, Premiere Pro
 - 🗃 **Database Management Tools**: Apache DB, MySQL, MongoDB, PostgreSQL
 - 📝 **Markup Languages**: HTML, LaTeX, Markdown, Typst, XML
