@@ -18,7 +18,7 @@
 ### Western University (London, ON)
 
 **Bachelor of Engineering Science, Software Engineering** (2022 — 2027)
-> ##### **Related Coursework**: Algorithms & Data Structure, Cloud Computing, Computer Graphics, Database Systems, Human-Computer Interaction, Project & Process Management, Scalable Distributed Systems, Software Testing & Maintenance, Web Technologies.
+> ##### **Related Coursework**: Algorithms & Data Structure, Cloud Computing, Computer Graphics, Cybersecurity Threats & Mitigation, Database Systems, Human-Computer Interaction, Object-Oriented Design, Project & Process Management, Scalable Distributed Systems, Software Testing & Maintenance, Theory of Computing, Web Technologies.
 
 ## Skilled Areas ✨
 
